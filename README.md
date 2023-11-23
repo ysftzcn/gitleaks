@@ -1,0 +1,3 @@
+# gitleaks
+
+Secret Scanning Example
