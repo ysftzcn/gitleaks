@@ -2,7 +2,5 @@
 name = "cz_customize"
 
 [tool.commitizen.customize]
-example = "feature: this feature enable customize through config file"
-schema = "<type>(<scope>): <message>"
-schema_pattern = "(build|ci|docs|feat|fix|perf|refactor|style|test|chore):(\\s.*)"
+schema_pattern = "(build|ci|docs|feat|fix|perf|refactor|style|test|chore)"
 
