@@ -3,4 +3,5 @@ name = "cz_customize"
 
 [tool.commitizen.customize]
 schema_pattern = "^(build|ci|docs|feat|fix|perf|refactor|style|test|chore)(\\([^)]*\\))?: \\[?[A-Za-z0-9]+-[0-9]+\\]? \\[?[A-Za-z0-9]+\\]? .+"
+example = "feature: this feature enable customize through config file"
 
